@@ -1,5 +1,5 @@
 <p align=center>
-  <img src=./assets/readme-doydl-technologies-github-org-banner.png alt="DOYDL Technologies">
+  <img src=./assets/readme-doydl-technologies-company-banner-dark-futuristic-hero.png alt="DOYDL Technologies">
 </p>
 
 ## DOYDL Technologies
