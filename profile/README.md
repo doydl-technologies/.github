@@ -1,5 +1,5 @@
-<p align=center>
-  <img src=./assets/readme-doydl-technologies-company-banner-dark-futuristic-hero.png alt="DOYDL Technologies">
+<p align="center">
+  <img src="./assets/readme-doydl-technologies-company-banner-dark-futuristic-hero.png" alt="DOYDL Technologies">
 </p>
 
 ## DOYDL Technologies
@@ -10,40 +10,34 @@ We architect and deliver mission-critical fintech systems, applied AI infrastruc
 
 ## Focus Areas
 
-- Applied AI and enterprise systems engineering
-- Workflow automation and process intelligence
-- Predictive analytics and financial modeling
-- Custom tooling, integrations, and platform architecture
-- Security-conscious engineering for regulated and adversarial environments
+* Applied AI and enterprise systems engineering
+* Workflow automation and process intelligence
+* Predictive analytics and financial modeling
+* Custom tooling, integrations, and platform architecture
+* Security-conscious engineering for regulated and adversarial environments
 
 ## Platforms and Operating Work
 
 DOYDL Technologies develops and operates specialized technology platforms for finance, infrastructure, automation, and intelligence workflows.
 
-## Open Source and Developer Tools
+## Operating Companies
 
-This organization hosts public repositories for selected SDKs, developer tooling, documentation, examples, and operational utilities connected to DOYDL Technologies and its operating companies.
+### Paravane Labs
 
-Public work may include:
+[Paravane Labs](https://github.com/paravaneai) is a DOYDL Technologies company focused on applied risk intelligence, operational decision support, developer tools, and secure infrastructure workflows.
 
-- Integration examples and reference implementations
-- SDKs and API support libraries
-- Automation utilities for internal and client-facing workflows
-- Documentation, templates, and community health defaults
-- Security and infrastructure tooling where public release is appropriate
+Its work includes products such as [smtpRS](https://paravane.io/pages/products/smtprs.html), along with public SDKs, desktop applications, integration examples, and operational tooling.
 
-## Working With Us
+* Website: [paravane.io](https://paravane.io/)
+* GitHub: [github.com/paravaneai](https://github.com/paravaneai)
 
-- Explore public repositories for SDKs, examples, and tools.
-- Open issues for bugs or focused feature requests.
-- Review each repository's `README.md`, `CONTRIBUTING.md`, and `SECURITY.md` before submitting reports.
-- Send vulnerability reports to `security@doydl.studio` instead of public issues.
+## Contact
 
-## Links
+For business inquiries, partnerships, or information about DOYDL Technologies and its operating companies:
 
-- Website: [doydl.studio](https://doydl.studio/)
-- GitHub: [github.com/doydl-technologies](https://github.com/doydl-technologies)
-- Contact: [contact@doydl.studio](mailto:contact@doydl.studio)
+* Website: [doydl.studio](https://doydl.studio/)
+* Email: [social@doydl.studio](mailto:social@doydl.studio)
+* Security: [security@doydl.studio](mailto:security@doydl.studio)
 
 ---
 
